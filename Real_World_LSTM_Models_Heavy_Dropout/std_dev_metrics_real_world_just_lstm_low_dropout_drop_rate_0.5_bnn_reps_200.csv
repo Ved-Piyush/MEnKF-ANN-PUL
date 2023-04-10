@@ -1,0 +1,8 @@
+index,0
+train_mae,0.021070025861263275
+test_mae,0.04433245584368706
+train_coverage,0.0
+train_width,0.07705936491787121
+test_coverage,0.0
+test_width,0.12714394565381346
+time_taken,0.05387901118065354
