@@ -1,0 +1,8 @@
+metrics,value
+train_coverage,0.9924242424242424
+test_coverage,1.0
+avg_ci_width_train,0.88830830168359
+avg_ci_width_test,0.8510353350249926
+avg_lstm_weight,0.9618238300083815
+exit_iter,7.5
+time_taken,0.3
