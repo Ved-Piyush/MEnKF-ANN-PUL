@@ -1,0 +1,5 @@
+metrics,value
+train_coverage,0.17202686492399932
+test_coverage,0.25355885280686746
+avg_ci_width_train,0.1167970224718941
+avg_ci_width_test,0.14664751379106472
