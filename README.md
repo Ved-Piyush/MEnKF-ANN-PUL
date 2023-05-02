@@ -1,5 +1,5 @@
 # MEnKF-ANN-PUL
-This is a development repository for the paper A Matrix Ensemble Kalman Filter-based Multi-arm Neural Network to Adequately Approximate Deep Neural Networks. Please follow the readme below to look at the relevant codes used to generate the various tables and figures in the manuscript. 
+This is a development repository for the paper **A Matrix Ensemble Kalman Filter-based Multi-arm Neural Network to Adequately Approximate Deep Neural Networks**. Please follow the readme below to look at the relevant codes used to generate the various tables and figures in the manuscript. 
 
 ## Data Description
 
