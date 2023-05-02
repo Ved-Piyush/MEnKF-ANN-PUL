@@ -8,7 +8,13 @@ The train, validation, and test sequences corresponding to the 50 simulation rep
 
 The code to train Word2Vec and Doc2Vec embedding models using the unsupervised sequences can be found at [Word2Vec_Doc2Vec_Training](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Data_Generation/Scripts/Train_Word2Vec_Doc2Vec.ipynb). 
 
+## Data Generation for Simulations and Applications
 
+In this section, we detail the codes that were used to train the True and the Fitted LSTMs for the 50 sets of training, validation, and testing sequences. 
+
+The code to train the True LSTM (with two dropout layers) can be found at [True_LSTM_Training_Two_Dropout_Layers](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Data_Generation/LSTM_Heavy_Dropout/Generate_Heavy_Dropout_First_LSTM.ipynb). The code to train the Fitted LSTMs (with two dropout layers) can be found at [Fitted_LSTM_Training_Two_Dropout_Layers](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Data_Generation/LSTM_Heavy_Dropout/Generate_Heavy_Dropout_Second_LSTM.ipynb). 
+
+The code to train the True LSTM (with one dropout layer) can be found at [True_LSTM_Training_One_Dropout_Layer](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Data_Generation/LSTM_Low_Dropout/Generate_Low_Dropout_First_LSTM.ipynb). The code to train the Fitted LSTMs (with one dropout layer) can be found at [Fitted_LSTM_Training_One_Dropout_Layer](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Data_Generation/LSTM_Low_Dropout/Generate_Low_Dropout_Second_LSTM.ipynb). 
 
 ## Reproducing the Tables and Figures in the Manuscript
 The table below links the Jupyter Notebooks and the resulting output files from the notebooks to verify the results in the Tables 1 through Table 6 of the manuscript. 
