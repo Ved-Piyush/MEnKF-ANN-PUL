@@ -16,7 +16,7 @@ The code to train the True LSTM (with two dropout layers) can be found at [True_
 
 The code to train the True LSTM (with one dropout layer) can be found at [True_LSTM_Training_One_Dropout_Layer](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Data_Generation/LSTM_Low_Dropout/Generate_Low_Dropout_First_LSTM.ipynb). The code to train the Fitted LSTMs (with one dropout layer) can be found at [Fitted_LSTM_Training_One_Dropout_Layer](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Data_Generation/LSTM_Low_Dropout/Generate_Low_Dropout_Second_LSTM.ipynb). 
 
-The code to train the ANN model using backpropagation that uses the Doc2Vec representation for the sequences can be found at [Doc2Vec_with_ANN_Training](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Data_Generation/Doc2Vec_ANN/Generate_Low_Dropout_First_LSTM.ipynb) 
+The code to train the ANN model using backpropagation that uses the Doc2Vec representation for the sequences can be found at [Doc2Vec_with_ANN_Training](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Data_Generation/Doc2Vec_ANN/Generate_Low_Dropout_First_LSTM.ipynb).
 
 ## Reproducing the Tables and Figures in the Manuscript
 The table below links the Jupyter Notebooks and the resulting output files from the notebooks to verify the results in the Tables 1 through Table 6 of the manuscript. 
