@@ -2,7 +2,7 @@
 
 ## Data Description
 
-The supervised dataset can be found at [supervised_data](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Data_Generation/Data/supervised.csv) and the unsupervised sequences can be found at [unsupervised_data](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Data_Generation/Data/all_unsupervised.csv)
+The supervised dataset of sequences can be found at [supervised_data](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Data_Generation/Data/supervised.csv) and the unsupervised dataset of sequences can be found at [unsupervised_data](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Data_Generation/Data/all_unsupervised.csv)
 
 
 ## Reproducing the Tables and Figures in the Manuscript
