@@ -10,7 +10,7 @@
 | 6  | [First_Row](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Real_World_ANN_LSTM_Generate_EnKF_LSTM_Doc2Vec/Real_World_ANN_LSTM_EnKF_LSTM_Doc2Vec_var_2_size_ens_433.ipynb), [Second_Row](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Real_World_ANN_LSTM_Generate_EnKF_LSTM_Doc2Vec/Real_World_ANN_LSTM_EnKF_LSTM_Doc2Vec_var_4_size_ens_433.ipynb)   | [First_Row](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Real_World_ANN_LSTM_Generate_EnKF_LSTM_Doc2Vec/Real_World_mean_metrics_ANN_LSTM_EnKF_LSTM_Doc2Vec_var_weights_2_num_ens_433.csv), [Second_Row](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Real_World_ANN_LSTM_Generate_EnKF_LSTM_Doc2Vec/Real_World_mean_metrics_ANN_LSTM_EnKF_LSTM_Doc2Vec_var_weights_4_num_ens_433.csv) |
 
 | Figure from the Paper  | Python Code | Comments|
-| ------------- | ------------- | 
+| ------------- | ------------- | ------------- |
 | 3  | [Code](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Boxplots_Just_LSTMs_with_Dropout.ipynb)| Scroll to the end of the script to see the plot|
 | 4  | [Code](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Simulations_EnKF_LSTM_Doc2Vec_Heavy_Dropout/Simulations_EnKF_Old_Strategy_Doc2Vec_lstm_extract_var_32_size_ens_216.ipynb)| Scroll to Jupyter cell [79] to see the plot| 
 | 5  | [Code](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Real_World_EnKF_LSTM_Doc2Vec_Heavy_Dropout/Real_World_EnKF_Old_Strategy_Doc2Vec_lstm_extract_var_16_size_ens_216.ipynb)|Scroll to the end of the script to see the plot| 
