@@ -1,5 +1,9 @@
 # MEnKF-ANN-PUL
 
+## Data Description
+
+
+## Reproducing the Tables and Figures in the Manuscript
 The table below links the Jupyter Notebooks and the resulting output files from the notebooks to verify the results in the Tables 1 through Table 6 of the manuscript. 
 
 | Table From the Paper  | Python Code |  Output Files        |
