@@ -35,7 +35,7 @@ The table below links the Jupyter Notebooks that were used to generate Figures 3
 
 | Figure from the Paper  | Python Code | Comments|
 | ------------- | ------------- | ------------- |
-| 3  | [Code](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Boxplots_Just_LSTMs_with_Dropout.ipynb)| Scroll to the end of the script to see the plot|
+| 2  | [Code](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Boxplots_Just_LSTMs_with_Dropout.ipynb)| Scroll to the end of the script to see the plot|
 | 4  | [Code](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Simulations_EnKF_LSTM_Doc2Vec_Heavy_Dropout/Simulations_EnKF_Old_Strategy_Doc2Vec_lstm_extract_var_32_size_ens_216.ipynb)| Scroll to Jupyter cell [79] to see the plot| 
 | 5  | [Code](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Real_World_EnKF_LSTM_Doc2Vec_Heavy_Dropout/Real_World_EnKF_Old_Strategy_Doc2Vec_lstm_extract_var_16_size_ens_216.ipynb)|Scroll to the end of the script to see the plot| 
 | 6  | [Code](https://github.com/Ved-Piyush/MEnKF-ANN-PUL/blob/main/Boxplots_EnKFs.ipynb)|Scroll to the end of the script to see the plot|
